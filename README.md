@@ -1,5 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*U3WRRwLx3zeDkHmIVGLJdw.gif](https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day7.gif?fit=767%2C356&ssl=1](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)]
-
+[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)]
 <h1 align="center">Hi 👋, I'm Pushkar Gurjar</h1>
 <h3 align="center">Think data science can’t be fun? I’m here to prove it with a killer model and some serious coding vibes!</h3>
 
