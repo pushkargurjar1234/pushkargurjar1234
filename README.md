@@ -1,3 +1,5 @@
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*U3WRRwLx3zeDkHmIVGLJdw.gif)]
+
 <h1 align="center">Hi 👋, I'm Pushkar Gurjar</h1>
 <h3 align="center">Think data science can’t be fun? I’m here to prove it with a killer model and some serious coding vibes!</h3>
 
