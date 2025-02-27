@@ -1,4 +1,7 @@
-<img src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif" alt="MasterHead" style="height: 350px; width: auto;">
+<p align="center">
+  <img src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif" alt="MasterHead" width="100%" height="350px">
+</p>
+
 
 
 <h1 align="center">Hi 👋, I'm Pushkar Gurjar</h1>
