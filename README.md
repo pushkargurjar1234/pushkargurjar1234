@@ -1,4 +1,5 @@
-<img src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif" alt="MasterHead" height="350px">
+<img src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif" alt="MasterHead" style="height: 350px; width: auto;">
+
 
 <h1 align="center">Hi 👋, I'm Pushkar Gurjar</h1>
 <h3 align="center">Think data science can’t be fun? I’m here to prove it with a killer model and some serious coding vibes!</h3>
