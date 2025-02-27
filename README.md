@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pushkar Gurjar</h1>
 <h3 align="center">Think data science can’t be fun? I’m here to prove it with a killer model and some serious coding vibes!</h3>
 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bc/1c/5c/bc1c5caa5be55e8a602fd5ec390e8fd0.gif"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushkargurjar1234&label=Profile%20views&color=0e75b6&style=flat" alt="pushkargurjar1234" /> </p>
 
 - 🔭 I am currently pursuing a B.Tech **Computer Science and Engineering at Rustamji Institute of Technology**
